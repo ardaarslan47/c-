@@ -1,0 +1,14 @@
+/Users/ardaarslan/Documents/c#/advancedtopics/bin/Debug/net8.0/advancedtopics
+/Users/ardaarslan/Documents/c#/advancedtopics/bin/Debug/net8.0/advancedtopics.deps.json
+/Users/ardaarslan/Documents/c#/advancedtopics/bin/Debug/net8.0/advancedtopics.runtimeconfig.json
+/Users/ardaarslan/Documents/c#/advancedtopics/bin/Debug/net8.0/advancedtopics.dll
+/Users/ardaarslan/Documents/c#/advancedtopics/bin/Debug/net8.0/advancedtopics.pdb
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.AssemblyInfoInputs.cache
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.AssemblyInfo.cs
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.csproj.CoreCompileInputs.cache
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.dll
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/refint/advancedtopics.dll
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.pdb
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/advancedtopics.genruntimeconfig.cache
+/Users/ardaarslan/Documents/c#/advancedtopics/obj/Debug/net8.0/ref/advancedtopics.dll

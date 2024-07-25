@@ -1,0 +1,14 @@
+/Users/ardaarslan/Documents/c#/helloworld/bin/Debug/net8.0/helloworld
+/Users/ardaarslan/Documents/c#/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/ardaarslan/Documents/c#/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/ardaarslan/Documents/c#/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/ardaarslan/Documents/c#/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/ardaarslan/Documents/c#/helloworld/obj/Debug/net8.0/ref/helloworld.dll

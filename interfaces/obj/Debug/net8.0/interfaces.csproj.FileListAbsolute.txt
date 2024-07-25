@@ -1,0 +1,14 @@
+/Users/ardaarslan/Documents/c#/interfaces/bin/Debug/net8.0/interfaces
+/Users/ardaarslan/Documents/c#/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/Users/ardaarslan/Documents/c#/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/Users/ardaarslan/Documents/c#/interfaces/bin/Debug/net8.0/interfaces.dll
+/Users/ardaarslan/Documents/c#/interfaces/bin/Debug/net8.0/interfaces.pdb
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.dll
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.pdb
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/Users/ardaarslan/Documents/c#/interfaces/obj/Debug/net8.0/ref/interfaces.dll

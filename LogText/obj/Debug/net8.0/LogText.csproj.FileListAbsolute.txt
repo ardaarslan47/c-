@@ -1,0 +1,14 @@
+/Users/ardaarslan/Documents/c#/LogText/bin/Debug/net8.0/LogText
+/Users/ardaarslan/Documents/c#/LogText/bin/Debug/net8.0/LogText.deps.json
+/Users/ardaarslan/Documents/c#/LogText/bin/Debug/net8.0/LogText.runtimeconfig.json
+/Users/ardaarslan/Documents/c#/LogText/bin/Debug/net8.0/LogText.dll
+/Users/ardaarslan/Documents/c#/LogText/bin/Debug/net8.0/LogText.pdb
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.AssemblyInfoInputs.cache
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.AssemblyInfo.cs
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.csproj.CoreCompileInputs.cache
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.dll
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/refint/LogText.dll
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.pdb
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/LogText.genruntimeconfig.cache
+/Users/ardaarslan/Documents/c#/LogText/obj/Debug/net8.0/ref/LogText.dll

@@ -1,0 +1,14 @@
+/Users/ardaarslan/Documents/c#/constructorInharitance/bin/Debug/net8.0/constructorInharitance
+/Users/ardaarslan/Documents/c#/constructorInharitance/bin/Debug/net8.0/constructorInharitance.deps.json
+/Users/ardaarslan/Documents/c#/constructorInharitance/bin/Debug/net8.0/constructorInharitance.runtimeconfig.json
+/Users/ardaarslan/Documents/c#/constructorInharitance/bin/Debug/net8.0/constructorInharitance.dll
+/Users/ardaarslan/Documents/c#/constructorInharitance/bin/Debug/net8.0/constructorInharitance.pdb
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.AssemblyInfoInputs.cache
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.AssemblyInfo.cs
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.csproj.CoreCompileInputs.cache
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.dll
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/refint/constructorInharitance.dll
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.pdb
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/constructorInharitance.genruntimeconfig.cache
+/Users/ardaarslan/Documents/c#/constructorInharitance/obj/Debug/net8.0/ref/constructorInharitance.dll
