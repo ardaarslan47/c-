@@ -1,6 +1,6 @@
 public class program
 {
-    public static void main(string args[])
+    public static void Main(string[] args)
     {
         System.Console.WriteLine("Hello World");
     }
